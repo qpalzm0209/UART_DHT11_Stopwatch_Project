@@ -2,7 +2,8 @@
 
 ## 프로젝트 개요
 
-UART 송수신 기능에 DHT11 온습도 센서, HC-SR04 초음파 거리측정, Stopwatch/Watch 기능을 결합한 FPGA 응용 프로젝트입니다.
+UART 송수신 기능에 DHT11 온습도 센서, HC-SR04 초음파 거리측정, Stopwatch/Watch 기능을 결합한 FPGA 응용 프로젝트입니다.  
+**발표자료: https://drive.google.com/file/d/15GHaIcNIkUzOn4V3OtzoH515fMLz-dH-/view?usp=drive_link**  
 
 ## 목표 동작
 
